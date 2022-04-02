@@ -3,6 +3,7 @@ def add(a,b):
     return a+b
 
 def add(a,b):
+    print("中间的一个函数")
     return a+b
 
 def add(a,b):
